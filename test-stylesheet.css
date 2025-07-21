@@ -6,11 +6,11 @@ p {
     font-family:Arial, Helvetica, sans-serif
 }
 
-caption {
+h2 {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-h1, p, caption {
+h1, p, h2 {
   text-align: center;
 } 
 
